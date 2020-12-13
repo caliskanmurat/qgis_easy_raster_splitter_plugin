@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/easy_raster_splitter" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
