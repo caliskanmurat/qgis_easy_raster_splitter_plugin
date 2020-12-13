@@ -36,7 +36,7 @@ The raster is clipped by full vector. The names of the created raster is typed m
 
 
 ### 2-)Extract method.
-In this method; the input raster is extraxted by the provided polygon data(in vector format). After the process, the extraxted parts are deleted.<br/>
+In this method; the input raster is extracted by the provided polygon data(in vector format). After the process, the extracted parts are deleted.<br/>
 
 #### a-) Extract By Feature
 The raster is extracted by features seperately. The names of the created rasters are read from the attribute table of the polygon data.
