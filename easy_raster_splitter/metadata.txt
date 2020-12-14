@@ -10,7 +10,7 @@ version=1.0
 author=Murat ÇALIŞKAN
 email=caliskan.murat.20@gmail.com
 
-about=Using this plugin you can split your raster file based on given polygon vector. It is possible to clip or extract parts from rasters. Output can be one raster file that is clipped/extracted by whole polygon dataset or multiple raster files that are clipped/extracted by each polygon feature seperately. For correct results please be sure that all of the inputs have the same coordinate reference system. 
+about=Using this plugin you can split your raster file based on given polygon vector. It is possible to clip or extract parts from rasters. Output can be one raster file that is clipped/extracted by whole polygon dataset or multiple raster files that are clipped/extracted by each polygon feature seperately. For correct results please be sure that all of the inputs have the same coordinate reference system. (In this plugin opencv module is used and some QGIS versions may not include this module. If you get an error about this, you have to install it manually. To learn how to install, check the Github page or search it on internet.)
 
 tracker=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin/issues
 repository=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
