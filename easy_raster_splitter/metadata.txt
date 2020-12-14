@@ -12,8 +12,8 @@ email=caliskan.murat.20@gmail.com
 
 about=Using this plugin you can split your raster file based on given polygon vector. It is possible to clip or extract parts from rasters. Output can be one raster file that is clipped/extracted by whole polygon dataset or multiple raster files that are clipped/extracted by each polygon feature seperately. For correct results please be sure that all of the inputs have the same coordinate reference system. 
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin/issues
+repository=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
 # End of mandatory metadata
 
 # Recommended items:
@@ -23,9 +23,9 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python, raster, clip, crop, extract, split, mask, erase, delete
+tags=python, raster, clip, crop, extract, split, mask, erase, delete, cut
 
-homepage=http://homepage
+homepage=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
 category=Raster
 icon=icon.png
 # experimental flag
