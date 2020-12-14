@@ -1,5 +1,12 @@
 # QGIS Easy Raster Splitter Plugin
 
+### Installing third party Python libraries to QGIS
+1-) Open OSGeo4W Shell as an administrator,
+2-) Type py3_env in the console (This should print paths of your QGIS Python installation),
+3-) Type python -m pip install {your library}
+Source:https://gis.stackexchange.com/questions/141320/installing-3rd-party-python-libraries-for-qgis-on-windows
+
+
 With this plugin, it is possible to split raster files based on given polygon data. For correct results please be sure that the layer and the canvas have the same coordinate reference system.
 
 2 methods and 2 options are available for this process<br/>
