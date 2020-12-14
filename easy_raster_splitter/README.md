@@ -1,7 +1,7 @@
 # QGIS Easy Raster Splitter Plugin
 
 ### Installing third party Python libraries to QGIS
-If you need to install opencv module manually you can follow the steps below.
+If you need to install opencv module manually you can follow the steps below.<br/>
 1-) Open OSGeo4W Shell as an administrator,<br/>
 2-) Type py3_env in the console (This should print paths of your QGIS Python installation),<br/>
 3-) Type python -m pip install {your library}<br/>
