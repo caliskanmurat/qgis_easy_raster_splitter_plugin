@@ -34,7 +34,6 @@ from .resources import *
 from .easy_raster_splitter_dialog import ClipRasterDialog
 import os.path
 
-import cv2
 import numpy as np
 from osgeo import gdal, ogr
 import os
@@ -368,7 +367,11 @@ class ClipRaster:
            
     def run(self):
         """Run method that performs all the real work"""
-
+        try:
+            import cv2
+        except:
+            self.iface.messageBar().pushMessage("Error", "opencv couldn't be impported successfully! Please check the GitHub page to learn how to install manually." , level=Qgis.Critical, duration=10)
+           
         # Create the dialog with elements (after translation) and keep reference
         # Only create GUI ONCE in callback, so that it will only load when the plugin is started
         if self.first_start == True:
