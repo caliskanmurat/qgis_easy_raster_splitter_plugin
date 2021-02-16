@@ -9,7 +9,7 @@ If you need to install opencv module manually you can follow the steps below.<br
 <sub>*Source:https://gis.stackexchange.com/questions/141320/installing-3rd-party-python-libraries-for-qgis-on-windows*</sub><br/><br/>
 
 
-With this plugin, it is possible to split raster files based on given polygon data. For correct results please be sure that the layer and the canvas have the same coordinate reference system.
+With this plugin, it is possible to split raster files based on given polygon data. For correct results please be sure that the layers and the canvas have the same coordinate reference system.
 
 2 methods and 2 options are available for this process<br/>
 
