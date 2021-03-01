@@ -29,7 +29,7 @@ homepage=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
 category=Raster
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
