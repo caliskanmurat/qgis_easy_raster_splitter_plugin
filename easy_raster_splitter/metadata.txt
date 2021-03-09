@@ -6,7 +6,7 @@
 name=Easy Raster Splitter
 qgisMinimumVersion=3.0
 description=This plugin allows you to split raster files, based on given polygon data.
-version=1.0
+version=1.1
 author=Murat ÇALIŞKAN
 email=caliskan.murat.20@gmail.com
 
