@@ -1,14 +1,5 @@
 # QGIS Easy Raster Splitter Plugin
 
-### Installing third party Python libraries to QGIS
-If you need to install opencv module manually you can follow the steps below.<br/>
-1-) Open OSGeo4W Shell as an administrator,<br/>
-2-) Type py3_env in the console (This should print paths of your QGIS Python installation),<br/>
-3-) Type python -m pip install {your library}<br/>
-"python -m pip install opencv-python"<br/>
-<sub>*Source:https://gis.stackexchange.com/questions/141320/installing-3rd-party-python-libraries-for-qgis-on-windows*</sub><br/><br/>
-
-
 With this plugin, it is possible to split raster files based on given polygon data. For correct results please be sure that the layers and the canvas have the same coordinate reference system.
 
 2 methods and 2 options are available for this process<br/>
