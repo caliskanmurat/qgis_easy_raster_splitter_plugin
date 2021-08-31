@@ -4,7 +4,7 @@ With this plugin, it is possible to split raster files based on given polygon da
 
 2 methods and 2 options are available for this process<br/>
 
-An illustrative example is shown below:
+Some illustrative examples are shown below:
 <br/>
 
 <p align="left">
