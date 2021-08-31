@@ -52,9 +52,16 @@ The raster is extracted by features seperately. The names of the created rasters
 
 <table>
   <tr>
-    <td><img width="450" src="../images/extract by features.PNG"></td>
-    <td><img width="450" src="../images/extract by features example.PNG"></td>
+    <td rowspan="3"><img width="450" src="../images/extract by features.PNG"></td>
+    <td><img width="450" src="../images/extract by features example_1.PNG"></td>
   </tr>
+  <tr>
+    <td><img width="450" src="../images/extract by features example_2.PNG"></td>
+  </tr>  
+  <tr>
+    <td><img width="450" src="../images/extract by features example_3.PNG"></td>
+  </tr>
+  
 </table>
 
 #### b-) Extract By Full Vector
