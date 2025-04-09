@@ -1,0 +1,49 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.
+
+# Mandatory items:
+
+[general]
+name=Easy Raster Splitter
+qgisMinimumVersion=3.0
+description=This plugin allows you to split raster files, based on given polygon data.
+version=2.2
+author=Murat ÇALIŞKAN
+email=caliskan.murat.20@gmail.com
+
+about=Using this plugin you can split your raster file based on given polygon vector. It is possible to clip or extract parts from rasters. Output can be one raster file that is clipped/extracted by whole polygon dataset or multiple raster files that are clipped/extracted by each polygon feature seperately. For correct results please be sure that all of the inputs have the same coordinate reference system.
+
+tracker=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin/issues
+repository=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin/tree/main/easy_raster_splitter
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, raster, clip, crop, extract, split, mask, erase, delete, cut
+
+homepage=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
+category=Raster
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
