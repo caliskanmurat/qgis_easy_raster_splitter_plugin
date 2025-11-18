@@ -8,7 +8,7 @@ Some illustrative examples are shown below:
 <br/>
 
 <p align="left">
-  <img width="750" src="../images/img.PNG">
+  <img width="750" src="./images/img.PNG">
 </p>
 <br/>
 
@@ -19,8 +19,8 @@ The raster is clipped by features seperately. The names of the created rasters a
 
 <table>
   <tr>
-    <td><img width="450" src="../images/clip by features.PNG"></td>
-    <td><img width="450" src="../images/clip by features example.PNG"></td>
+    <td><img width="450" src="./images/clip by features.PNG"></td>
+    <td><img width="450" src="./images/clip by features example.PNG"></td>
   </tr>
 </table>
 
@@ -29,8 +29,8 @@ The raster is clipped by full vector. The names of the created raster is typed m
 
 <table>
   <tr>
-    <td><img width="450" src="../images/clip by full vector.PNG"></td>
-    <td><img width="450" src="../images/clip by full vector example.PNG"></td>
+    <td><img width="450" src="./images/clip by full vector.PNG"></td>
+    <td><img width="450" src="./images/clip by full vector example.PNG"></td>
   </tr>
 </table>
 
@@ -43,14 +43,14 @@ The raster is extracted by features seperately. The names of the created rasters
 
 <table>
   <tr>
-    <td rowspan="3"><img width="450" src="../images/extract by features.PNG"></td>
-    <td><img width="450" src="../images/extract by features example_1.PNG"></td>
+    <td rowspan="3"><img width="450" src="./images/extract by features.PNG"></td>
+    <td><img width="450" src="./images/extract by features example_1.PNG"></td>
   </tr>
   <tr>
-    <td><img width="450" src="../images/extract by features example_2.PNG"></td>
+    <td><img width="450" src="./images/extract by features example_2.PNG"></td>
   </tr>  
   <tr>
-    <td><img width="450" src="../images/extract by features example_3.PNG"></td>
+    <td><img width="450" src="./images/extract by features example_3.PNG"></td>
   </tr>
   
 </table>
@@ -60,8 +60,8 @@ The raster is extracted by full vector. The names of the created raster is typed
 
 <table>
   <tr>
-    <td><img width="450" src="../images/extract by full vector.PNG"></td>
-    <td><img width="450" src="../images/extract by full vector example.PNG"></td>
+    <td><img width="450" src="./images/extract by full vector.PNG"></td>
+    <td><img width="450" src="./images/extract by full vector example.PNG"></td>
   </tr>
 </table>
 
